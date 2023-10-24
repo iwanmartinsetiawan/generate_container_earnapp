@@ -1,5 +1,9 @@
 # How to
 
+## Pre Requisite
+1. Docker installed
+2. Git installed
+
 - Download or clone git file
 ```
 git clone https://github.com/iwanmartinsetiawan/generate_container_earnapp.git
