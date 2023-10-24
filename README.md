@@ -1,0 +1,1 @@
+# generate_container_earnapp
