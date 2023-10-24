@@ -1,4 +1,4 @@
-# Pre Requisite
+# Prerequisites
 1. Docker installed
 2. Git installed
 
