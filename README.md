@@ -1,9 +1,8 @@
-# How to
-
-## Pre Requisite
+# Pre Requisite
 1. Docker installed
 2. Git installed
 
+# How to
 - Download or clone git file
 ```
 git clone https://github.com/iwanmartinsetiawan/generate_container_earnapp.git
