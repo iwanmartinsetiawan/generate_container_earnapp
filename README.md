@@ -15,6 +15,6 @@ cd generate_container_earnapp
 bash container.sh
 ```
 
-- Input total container = insert with your needed and enter
-- Input directory save uuid (ex: /root) default is = insert with your full path directory location, default is home dir. and enter
+- **Input total container** = insert with your needed and enter
+- **Input directory save uuid (ex: /root) default is** = insert with your full path directory location, default is home dir. and enter
 
